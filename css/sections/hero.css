@@ -111,16 +111,13 @@
     object-fit: contain;
   }
   
-  .hero-content__testimonial {
-    padding: 32px 64px;
-  
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  
-    background: var(--color-white)
+  .hero-content__testimonial{
+     display: flex;
+     flex-wrap: wrap;
+        gap: 20px;
+        padding:32px 64px;
+        background: var(--color-white);
   }
-  
   .hero-content__customer {
     flex: 1;
     gap: 10px;
